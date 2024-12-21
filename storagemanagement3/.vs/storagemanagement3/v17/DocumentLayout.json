@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|c:\\users\\aliou\\documents\\github\\react\\storagemanagement3\\storagemanagement3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|solutionrelative:storagemanagement3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|c:\\users\\aliou\\documents\\github\\react\\storagemanagement3\\storagemanagement3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|solutionrelative:storagemanagement3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|c:\\users\\aliou\\documents\\github\\react\\storagemanagement3\\storagemanagement3\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|solutionrelative:storagemanagement3\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|c:\\users\\aliou\\documents\\github\\react\\storagemanagement3\\storagemanagement3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|solutionrelative:storagemanagement3\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|c:\\users\\aliou\\documents\\github\\react\\storagemanagement3\\storagemanagement3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|solutionrelative:storagemanagement3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|c:\\users\\aliou\\documents\\github\\react\\storagemanagement3\\storagemanagement3\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|solutionrelative:storagemanagement3\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|c:\\users\\aliou\\documents\\github\\react\\storagemanagement3\\storagemanagement3\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|solutionrelative:storagemanagement3\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|c:\\users\\aliou\\documents\\github\\react\\storagemanagement3\\storagemanagement3\\services\\ravendbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|solutionrelative:storagemanagement3\\services\\ravendbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|c:\\users\\aliou\\documents\\github\\react\\storagemanagement3\\storagemanagement3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BD0EE6-D9AB-493F-81C3-08FD8EC75071}|storagemanagement3\\storagemanagement3.csproj|solutionrelative:storagemanagement3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "storagemanagement3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "storagemanagement3\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T23:10:56.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "storagemanagement3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Models\\User.cs",
+              "RelativeToolTip": "storagemanagement3\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:40:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "storagemanagement3\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "storagemanagement3\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:40:12.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "storagemanagement3\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "storagemanagement3\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:39:43.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\appsettings.json",
+              "RelativeDocumentMoniker": "storagemanagement3\\appsettings.json",
+              "ToolTip": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\appsettings.json",
+              "RelativeToolTip": "storagemanagement3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T21:28:54.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "storagemanagement3\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "storagemanagement3\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:27:26.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "storagemanagement3\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Models\\Item.cs",
+              "RelativeToolTip": "storagemanagement3\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:27:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Program.cs",
+              "RelativeDocumentMoniker": "storagemanagement3\\Program.cs",
+              "ToolTip": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Program.cs",
+              "RelativeToolTip": "storagemanagement3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:26:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RavenDbService.cs",
+              "DocumentMoniker": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Services\\RavenDbService.cs",
+              "RelativeDocumentMoniker": "storagemanagement3\\Services\\RavenDbService.cs",
+              "ToolTip": "C:\\Users\\aliou\\Documents\\GitHub\\React\\storagemanagement3\\storagemanagement3\\Services\\RavenDbService.cs",
+              "RelativeToolTip": "storagemanagement3\\Services\\RavenDbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:26:05.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

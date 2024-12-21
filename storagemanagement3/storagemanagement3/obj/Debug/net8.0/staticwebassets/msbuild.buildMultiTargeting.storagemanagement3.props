@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\storagemanagement3.props" />
+</Project>
